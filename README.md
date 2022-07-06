@@ -42,3 +42,4 @@ Finally, in separate terminals, run `npm start` in each folder so that the API a
 | /places/:placeId/edit | `places/EditPlaceForm.js` | Form for editing a place                                                        |# iam-4-using-jwts-in-rest-rant
 # iam-4-using-jwts-in-rest-rant
 # iam-4-using-jwts-in-rest-rant
+# iam-4-using-jwts-in-rest-rant
